@@ -1,1 +1,1 @@
-{"_info":"// This is a generated file; do not edit or check into version control.","dependencyGraph":[{"name":"tobias","dependencies":[]}]}
+{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[{"name":"tobias","path":"/Users/bingma/StudioProjects/tobias/","dependencies":[]}],"android":[{"name":"tobias","path":"/Users/bingma/StudioProjects/tobias/","dependencies":[]}],"macos":[],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"tobias","dependencies":[]}],"date_created":"2020-09-11 09:37:09.028740","version":"1.17.5"}
